@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/8fbe4d60-aaab-4ff2-b86c-8894b3668cf3" />## What is CRM?
+## What is CRM?
 CRM stands for Customer Relationship Management. It is a software system used by companies to manage customer information, track interactions, improve communication, and increase sales. CRM helps organizations maintain better relationships with customers and manage business activities more efficiently.
 
 ## Why Companies Use Salesforce
@@ -25,8 +25,11 @@ Finally, when the process is completed successfully, the person becomes a Custom
 
 ## Real-Life Mapping (College Admission System)
 Account = College
+
 Contact = Student
+
 Lead = Student interested in admission
+
 Opportunity = Admission process
 
 ## Screenshots
